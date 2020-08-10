@@ -1,7 +1,12 @@
 {
   "name": "cloud-arrow/taoke",
   "description": "taoke sdk",
-  "type": "library",
+  "authors": [
+    {
+      "name": "cloud-arrow",
+      "email": "fz20140409@163.com"
+    }
+  ],
   "license": "MIT",
   "autoload": {
     "psr-4": {
