@@ -8,7 +8,7 @@ class Pinduoduo
 {
     private $clientId;
     private $clientSecret;
-    const URL = 'http://gw-api.pinduoduo.com/api/router';
+    const URL = "http://gw-api.pinduoduo.com/api/router";
 
     public function __construct($clientId, $clientSecret)
     {
